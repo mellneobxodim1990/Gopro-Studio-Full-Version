@@ -242,4 +242,4 @@ This repository serves as the official landing page for GoPro Studio. The softwa
 **Get the most recent version of GoPro Studio today!**
 
 ---
-**Last updated:** 2026-10-06 10:54:53 UTC
+**Last updated:** 2026-10-06 17:00:23 UTC
